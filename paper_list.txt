@@ -1,0 +1,57 @@
+2023_A Task-Agnostic Regularizer for Diverse Subpolicy Discovery in Hierarchical Reinforcement Learning
+2023_Hierarchical Kickstarting for Skill Transfer in Reinforcement Learning
+2023_Multi-task Hierarchical Adversarial Inverse Reinforcement Learning
+2022_Accelerating Reinforcement Learning for Autonomous Driving using Task-Agnostic and Ego-Centric Motion Skills
+2022_Advanced Skills through Multiple Adversarial Motion Priors in Reinforcement Learning
+2022_ASPiRe: Adaptive Skill Priors for Reinforcement Learning
+2022_Cascaded Compositional Residual Learning for Complex Interactive Behaviors
+2022_CEIP: Combining Explicit and Implicit Priors for Reinforcement Learning with Demonstrations
+2022_MPR-RL: Multi-Prior Regularized Reinforcement Learning for Knowledge Transfer
+2022_Planning to Practice: Efficient Online Fine-Tuning by Composing Goals in Latent Space
+2022_Priors, Hierarchy, and Information Asymmetry for Skill Transfer in Reinforcement Learning
+2022_Relay Hindsight Experience Replay: Self-Guided Continual Reinforcement Learning for Sequential Object Manipulation Tasks with Sparse Rewards
+2022_Residual Skill Policies: Learning an Adaptable Skill-based Action Space for Reinforcement Learning for Robotics
+2022_Robot Learning of Mobile Manipulation With Reachability Behavior Priors
+2022_Skill-based Meta-Reinforcement Learning
+2022_Skill-based Model-based Reinforcement Learning
+2022_SkillS: Adaptive Skill Sequencing for Efficient Temporally-Extended Exploration
+2022_Zero-shot sim-to-real transfer of reinforcement learning framework for robotics manipulation with demonstration and force feedback
+2021_Accelerating Robotic Reinforcement Learning via Parameterized Action Primitives
+2021_Bayesian controller fusion: Leveraging control priors in deep reinforcement learning for robotics
+2021_Demonstration-Guided Reinforcement Learning with Learned Skills
+2021_Hierarchical Few-Shot Imitation with Skill Transition Models
+2021_Hierarchical Policies for Cluttered-Scene Grasping with Latent Plans
+2021_Hierarchical Skills for Efficient Exploration
+2021_Learning Robotic Manipulation Skills Using an Adaptive Force-Impedance Action Space
+2021_Learning Transferable Motor Skills with Hierarchical Latent Mixture Policies
+2021_Model predictive actor-critic: Accelerating robot skill acquisition with deep reinforcement learning
+2021_TRAIL: Near-Optimal Imitation Learning with Suboptimal Data
+2020_Accelerating Reinforcement Learning with Learned Skill Priors (SPiRL)
+2020_Behavior Priors for Efficient Reinforcement Learning
+2020_Catch and carry: Reusable neural controllers for vision-guided whole-body tasks
+2020_CoMic: Complementary Task Learning & Mimicry for Reusable Skills
+2020_Discovering Motor Programs by Recomposing Demonstrations
+2020_Hierarchical reinforcement learning for efficent exploration and transfer
+2020_Learning quadrupedal locomotion over challenging terrain
+2020_Learning Robot Skills with Temporal Variational Inference
+2020_Multi-expert learning of adaptive legged locomotion
+2020_Multiplicative controller fusion: Leveraging algorithmic priors for sample-efficient reinforcement learning and safe sim-to-real transfer
+2020_PARROT: DATA-DRIVEN BEHAVIORAL PRIORS FOR REINFORCEMENT LEARNING
+2019_Directed-info GAIL: Learning hierarchical policies from unsegmented demonstrations using directed information
+2019_Dynamics-Aware Unsupervised Discovery of Skills
+2019_Learning Latent Plans from Play
+2019_LEARNING MULTI-LEVEL HIERARCHIES WITH HINDSIGHT
+2019_MCP: Learning Composable Hierarchical Control with Multiplicative Compositional Policies
+2019_Neural probabilistic motor primitives for humanoid control
+2019_Relay Policy Learning: Solving Long-Horizon Tasks via Imitation and Reinforcement Learning
+2019_Sub-policy Adaptation for Hierarchical Reinforcement Learning
+2018_Data-Efficient Hierarchical Reinforcement Learning (HIRO)
+2018_CompILE: Compositional Imitation Learning and Execution
+2018_Latent Space Policies for Hierarchical Reinforcement Learning
+2018_Learning an embedding space for transferable robot skills
+2017_A Deep Hierarchical Approach to Lifelong Learning in Minecraft
+2017_DDCO: Discovery of Deep Continuous Options for Robot Learning from Demonstrations
+2017_Feudal networks for hierarchical reinforcement learning
+2017_Stochastic neural networks for hierarchical reinforcement learning
+2017_The option-critic architecture
+2016_Learning and Transfer of Modulated Locomotor Controllers
