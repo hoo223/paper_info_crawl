@@ -12,8 +12,8 @@
 2022_Relay Hindsight Experience Replay: Self-Guided Continual Reinforcement Learning for Sequential Object Manipulation Tasks with Sparse Rewards
 2022_Residual Skill Policies: Learning an Adaptable Skill-based Action Space for Reinforcement Learning for Robotics
 2022_Robot Learning of Mobile Manipulation With Reachability Behavior Priors
-2022_Skill-based Meta-Reinforcement Learning
-2022_Skill-based Model-based Reinforcement Learning
+2022_Skill-based Meta-Reinforcement Learning_23bac2542b145bf2fcd17d7fa0a02ae03d0a45f7
+2022_Skill-based Model-based Reinforcement Learning_8e9d84a7b2db57adda8d639c6d54c8977ef10761
 2022_SkillS: Adaptive Skill Sequencing for Efficient Temporally-Extended Exploration
 2022_Zero-shot sim-to-real transfer of reinforcement learning framework for robotics manipulation with demonstration and force feedback
 2021_Accelerating Robotic Reinforcement Learning via Parameterized Action Primitives
@@ -25,7 +25,7 @@
 2021_Learning Robotic Manipulation Skills Using an Adaptive Force-Impedance Action Space
 2021_Learning Transferable Motor Skills with Hierarchical Latent Mixture Policies
 2021_Model predictive actor-critic: Accelerating robot skill acquisition with deep reinforcement learning
-2021_TRAIL: Near-Optimal Imitation Learning with Suboptimal Data
+2021_TRAIL: Near-Optimal Imitation Learning with Suboptimal Data_d3c6e0b80c36c14f7d1761fb881f20c35165f507
 2020_Accelerating Reinforcement Learning with Learned Skill Priors (SPiRL)
 2020_Behavior Priors for Efficient Reinforcement Learning
 2020_Catch and carry: Reusable neural controllers for vision-guided whole-body tasks_1d6d157f4586ee5fffa172b7198ecb8f7101f921
@@ -45,7 +45,7 @@
 2019_Neural probabilistic motor primitives for humanoid control
 2019_Relay Policy Learning: Solving Long-Horizon Tasks via Imitation and Reinforcement Learning
 2019_Sub-policy Adaptation for Hierarchical Reinforcement Learning
-2018_Data-Efficient Hierarchical Reinforcement Learning (HIRO)
+2018_Data-Efficient Hierarchical Reinforcement Learning (HIRO)_39b7007e6f3dd0744833f292f07ed77973503bfd
 2018_CompILE: Compositional Imitation Learning and Execution
 2018_Latent Space Policies for Hierarchical Reinforcement Learning
 2018_Learning an embedding space for transferable robot skills
