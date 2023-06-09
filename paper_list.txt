@@ -1,5 +1,5 @@
 2023_A Task-Agnostic Regularizer for Diverse Subpolicy Discovery in Hierarchical Reinforcement Learning
-2023_Hierarchical Kickstarting for Skill Transfer in Reinforcement Learning
+2022_Hierarchical Kickstarting for Skill Transfer in Reinforcement Learning
 2023_Multi-task Hierarchical Adversarial Inverse Reinforcement Learning
 2022_Accelerating Reinforcement Learning for Autonomous Driving using Task-Agnostic and Ego-Centric Motion Skills_a17a7256c04afee68f9aa0b7bfdc67fbca998b9c
 2022_Advanced Skills through Multiple Adversarial Motion Priors in Reinforcement Learning
